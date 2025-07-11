@@ -1,5 +1,5 @@
 # Abarnasri Prabakaran - Full Stack Developer Portfolio
-![Portfolio Screenshot](./assets/img/ll.png)
+![Portfolio Screenshot](https://github.com/abarna-RP/abarnasri-portfolio/commit/4e1457bc44334e19d9c7eff2f96a7f11a3437d1e)
 A modern, responsive portfolio website built with React.js and Tailwind CSS, showcasing my skills, projects, and professional background.
 
 ## 🚀 Features
