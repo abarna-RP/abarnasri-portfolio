@@ -1,12 +1,47 @@
-# React + Vite
+# Abarnasri Prabakaran - Full Stack Developer Portfolio
+![Portfolio Screenshot](./assets/img/ll.png)
+A modern, responsive portfolio website built with React.js and Tailwind CSS, showcasing my skills, projects, and professional background.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+- **Responsive Design**: Works on all device sizes
+- **Interactive UI**: Smooth scrolling, animations, and contact form
+- **Project Showcase**: Detailed case studies of my best work
+- **Technical Skills**: Visual representation of my tech stack
+- **Professional Background**: Education and certifications
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎨 Design Highlights
 
-## Expanding the ESLint configuration
+- Clean, professional layout with blue color scheme
+- Mobile-first responsive design
+- Interactive elements with smooth transitions
+- Project cards with live demo and code links
+- Timeline-style education section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Featured Projects
+
+1. **Online Counseling Platform**
+   - Full-stack telehealth solution with video conferencing
+   - Technologies: React, Node.js, MongoDB, Stripe API
+   - [Live Demo](https://frontend-capstone-sage.vercel.app/) | [Code](https://github.com/abarna-RP/frontend-capstone)
+
+2. **Movie Search Application**
+   - Responsive movie discovery app using TMDB API
+   - Technologies: React, Tailwind CSS
+   - [Live Demo](https://proj7-lemon.vercel.app/) | [Code](https://github.com/abarna-RP/proj7)
+
+3. **Financial Tracker**
+   - Income/expense calculator with data visualization
+   - Technologies: React, Chart.js
+   - [Live Demo](https://fancy-boba-fa344d.netlify.app/) | [Code](https://github.com/abarna-RP/calculator-task)
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/abarna-RP/portfolio.git
